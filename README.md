@@ -33,7 +33,7 @@ Bu proje şu anda resmi bir lisans ile yayınlanmamıştır, akademik amaçlı g
 - Çiğdem Kurt  
 - Sıla Dertli  
 - Hanife Çilingir
-- 
+
 ---
 
 ## 📁 Dosya Yapısı

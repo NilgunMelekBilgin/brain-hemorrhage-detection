@@ -5,8 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2022%2B-red)](https://www.mathworks.com/)
-[![License](https://img.shields.io/badge/License-Academic-green)](LICENSE)
-
 ---
 
 ## 📋 Proje Hakkında
@@ -25,16 +23,18 @@ Bu proje, beyin BT (Bilgisayarlı Tomografi) görüntülerinden **beyin kanamas�
 
 ---
 
-## 👥 Proje Sahipleri
+## 📄 Lisans
 
-| İsim |
-|------|
-| Nilgün Melek Bilgin |
-| Gamze Özdemir |
-| Çiğdem Kurt |
-| Sıla Dertli |
-| Hanife Çilingir |
+Bu proje şu anda resmi bir lisans ile yayınlanmamıştır.
+Projeyi kopyalamadan veya dağıtmadan önce proje sahipleri ile iletişime geçmeniz gerekmektedir.
 
+### 👥 Proje Sahipleri
+- Nilgün Melek Bilgin  
+- Gamze Özdemir  
+- Çiğdem Kurt  
+- Sıla Dertli  
+- Hanife Çilingir
+- 
 ---
 
 ## 📁 Dosya Yapısı

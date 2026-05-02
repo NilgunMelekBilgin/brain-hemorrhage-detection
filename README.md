@@ -63,6 +63,17 @@ Beyin_Kanaması_Tespiti/
 ```
 
 ---
+## 📥 Model İndirme
+
+`best_resnet50_model.keras` dosyası boyutu nedeniyle GitHub'da bulunmamaktadır.
+
+👉 [Google Drive'dan İndir](https://drive.google.com/drive/folders/1ztjNTX41ZfP7aHVO4nZuSjk3bomTjP8i?usp=sharing)
+
+```
+İndirilen dosya ve klasörler, verilen dosya yapısına göre konumlandırılmalıdır.
+```
+
+---
 
 ## 🏗️ Model Mimarileri
 

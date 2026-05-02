@@ -1,0 +1,12 @@
+MATLAB Requirements Report
+==========================
+
+MATLAB Version: 25.2.0.3177638 (R2025b) Update 5
+
+Required Toolboxes / Products:
+- MATLAB (Version 25.2)
+- Deep Learning Toolbox (Version 25.2)
+- Statistics and Machine Learning Toolbox (Version 25.2)
+
+Required Files:
+- C:\Users\user\OneDrive\Belgeler\MATLAB\Ozgun_CNN_Hiper4\Ozgun_CNN_Hiper_4.m

@@ -1,0 +1,5 @@
+MATLAB Version: 25.2.0.3177638 (R2025b) Update 5
+Required Toolboxes:
+- Deep Learning Toolbox (Version 25.2)
+- Image Processing Toolbox (Version 25.2)
+- Statistics and Machine Learning Toolbox (Version 25.2)

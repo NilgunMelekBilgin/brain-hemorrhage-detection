@@ -25,8 +25,7 @@ Bu proje, beyin BT (Bilgisayarlı Tomografi) görüntülerinden **beyin kanamas�
 
 ## 📄 Lisans
 
-Bu proje şu anda resmi bir lisans ile yayınlanmamıştır.
-Projeyi kopyalamadan veya dağıtmadan önce proje sahipleri ile iletişime geçmeniz gerekmektedir.
+Bu proje şu anda resmi bir lisans ile yayınlanmamıştır, akademik amaçlı geliştirilmiştir. Ticari kullanım için proje sahipleriyle iletişime geçiniz.
 
 ### 👥 Proje Sahipleri
 - Nilgün Melek Bilgin  
@@ -137,6 +136,3 @@ Proje, beyin BT görüntülerinden oluşan bir veri seti üzerinde eğitilmişti
 
 ---
 
-## 📄 Lisans
-
-Bu proje akademik amaçlı geliştirilmiştir. Ticari kullanım için proje sahipleriyle iletişime geçiniz.
